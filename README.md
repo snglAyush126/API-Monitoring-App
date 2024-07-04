@@ -12,7 +12,7 @@ and then to run it use the following command
 "uvicorn main:app --reload" 
 
 ## Hosted-Links
-Backend-API : https://34p7pw-8000.csb.app/usage/1/2024?userToken=976hgyfucuvbk
+Backend-API : https://api-monitoring-backend.onrender.com/usage/1/2024?userToken=976hgyfucuvbk
 Frontend:  https://merry-tanuki-37aa22.netlify.app/
 For Making a Chat or Download API request-URL: https://34p7pw-8000.csb.app/{chat or download}/{chat_id or download_id}?userToken=976hgyfucuvbk
 Example: chat request with chat_id= 1200 Url: https://34p7pw-8000.csb.app/chat/1200?userToken=976hgyfucuvbk
